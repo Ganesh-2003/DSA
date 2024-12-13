@@ -6,7 +6,7 @@ class Solution {
     // k : find kth smallest element and return using this function
     int kthSmallest(vector<int> &arr, int k) {
         // code here
-        priority_queue<int> pq; //Min Heap
+        priority_queue<int> pq; //MaxHeap
         
         for(auto i:arr)
         {
