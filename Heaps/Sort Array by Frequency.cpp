@@ -15,7 +15,7 @@ public:
     vector<int> frequencySort(vector<int>& nums) {
         unordered_map<int,int> mp;
         vector<int> res;
-        priority_queue<pair<int,int>,vector<pair<int,int>>,cmp>pq;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,cmp>pq; //MaxHeap
         for(auto i:nums)
         {
             mp[i]++;
