@@ -17,3 +17,35 @@ vector<int> rotateArray(vector<int>& arr, int n) {
     ans.push_back(temp);
     return ans;
 }
+
+//Rotate Array by d places
+
+class Solution {
+    public:
+  
+      // Function to rotate an array by d elements in counter-clockwise direction.
+      void rotateArr(vector<int>& arr, int d) {
+          // code here
+          vector<int> temp;
+          int n = arr.size();
+          d = d%n;
+          
+          for(int i = 0;i<d;i++)
+          {
+              temp.push_back(arr[i]);
+          }
+          
+          for(int i = d;i<arr.size();i++)
+          {
+              arr[i-d] = arr[i];
+          }
+          
+          int j = 0;
+          
+          for(int k = n-d;k<arr.size();k++)
+          {
+              arr[k] = temp[j];
+              j++;
+          }
+      }
+  };
