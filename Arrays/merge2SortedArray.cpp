@@ -11,7 +11,7 @@ vector < int > sortedArray(vector < int > a, vector < int > b) {
     int i = 0;
     int j = 0;
 
-    int lastElement = -1;
+    int lastElement = -1; //Counter of LastElement is Important
 
     while(i<n && j<m)
     {
