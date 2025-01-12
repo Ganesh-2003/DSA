@@ -49,3 +49,19 @@ class Solution {
           }
       }
   };
+
+
+  //Another Method
+
+  class Solution {
+    public:
+ 
+    // Function to rotate an array by d elements in counter-clockwise direction.
+     void rotateArr(vector<int>& arr, int d) {
+         // code here
+         int n = arr.size();
+         reverse(arr,arr+d);
+         reverse(arr+d,arr+n);
+         reverse(arr,arr+n);
+     }
+ };
