@@ -39,8 +39,7 @@ class Solution {
                   i++;
                   j++;
               }
-          }
-          
+          }      
           return res;
       }
   };
