@@ -1,5 +1,7 @@
 https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=SUBMISSION
 
+// Left Rotate Array by one place
+
 #include <bits/stdc++.h> 
 vector<int> rotateArray(vector<int>& arr, int n) {
     // Write your code here.
