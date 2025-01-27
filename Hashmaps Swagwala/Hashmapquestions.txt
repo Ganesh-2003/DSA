@@ -5,6 +5,7 @@
 3. Count distinct elements in an array
 
 4. Union of Two arrays
+https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1
 
 5. Intersection of Two arrays
 https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
@@ -15,10 +16,15 @@ https://leetcode.com/problems/intersection-of-two-arrays/
 6. Check if two pairs are divisible by k
 
 7. Largest subarray with 0 sum
+https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 
 8. Count subarrays with 0 sum
+https://www.naukri.com/code360/problems/subarrays-with-zero-sum_3161876
+
 
 9. Count distinct elements in window of size k
+
+
 
 10. Longest substring without repeating characters
 
