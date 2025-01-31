@@ -6,7 +6,7 @@ class Solution {
             int low = 0;
             int high = numbers.size()-1;
     
-            while(low<high)
+            while(low < high)
             {
                 int value = numbers[low] + numbers[high];
     
