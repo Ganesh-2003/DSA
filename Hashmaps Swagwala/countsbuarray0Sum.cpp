@@ -4,7 +4,7 @@
 int countSubarrays(int n, vector<int> &arr){
     // Write your code here.
 
-    unordered_map<int,int> mp;
+    unordered_map <int,int> mp;
     int prefixSum = 0;
     int maxLen = 0;
     int count = 0;
@@ -19,7 +19,7 @@ int countSubarrays(int n, vector<int> &arr){
             count = count + mp[prefixSum];
             mp[prefixSum]++;
         }
-        
+
         else
         {
             mp[prefixSum] = 1;
