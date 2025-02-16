@@ -15,6 +15,7 @@ https://leetcode.com/problems/intersection-of-two-arrays/
 
 6. Check if two pairs are divisible by k
 
+
 7. Largest subarray with 0 sum
 https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
 
@@ -23,6 +24,7 @@ https://www.naukri.com/code360/problems/subarrays-with-zero-sum_3161876
 
 
 9. Count distinct elements in window of size k
+https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 
 
