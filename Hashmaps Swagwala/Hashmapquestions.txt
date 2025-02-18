@@ -40,6 +40,7 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 14. Longest subarray with equal number of 0s, 1s and 2s
 
 15. Count subarray with equal number of 0s, 1s and 2s
+https://www.geeksforgeeks.org/problems/equal-0-1-and-23208/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 16. Count number of subarray sums equal to k
 
@@ -58,8 +59,10 @@ https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct
 https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1
 
 23. Count of substrings having at least k unique chars
+https://www.geeksforgeeks.org/count-number-of-substrings-having-at-least-k-distinct-characters/
 
 24. Subarrays with k different integers
+https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 25. Max consecutive ones (Practice)
 
