@@ -43,8 +43,10 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 https://www.geeksforgeeks.org/problems/equal-0-1-and-23208/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 16. Count number of subarray sums equal to k
+https://leetcode.com/problems/subarray-sum-equals-k/
 
 17. Largest subarray sum equal to k (Variation of above, just find the largest)
+https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 18. Count subarrays with sum divisible by k
 
