@@ -49,8 +49,10 @@ https://leetcode.com/problems/subarray-sum-equals-k/
 https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 18. Count subarrays with sum divisible by k
+https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
 
 19. Largest subarray with sum divisible by k
+https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 20. Valid Anagrams
 
