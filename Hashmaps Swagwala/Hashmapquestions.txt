@@ -55,6 +55,7 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/description/
 https://www.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
 20. Valid Anagrams
+https://leetcode.com/problems/valid-anagram/description/
 
 21. Count of Substrings having atmost k unique chars
 https://www.geeksforgeeks.org/count-number-of-substrings-with-exactly-k-distinct-characters/
@@ -75,6 +76,7 @@ https://leetcode.com/problems/subarrays-with-k-different-integers/
 27. Longest substring with atmost 2 unique chars
 
 28. Two sum
+https://leetcode.com/problems/two-sum/
 
 29. Pairs with a given difference
 
