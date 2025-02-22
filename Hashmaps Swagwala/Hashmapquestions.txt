@@ -70,6 +70,7 @@ https://www.geeksforgeeks.org/count-number-of-substrings-having-at-least-k-disti
 https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 25. Max consecutive ones (Practice)
+https://leetcode.com/problems/max-consecutive-ones/description/
 
 26. Max consecutive ones - 2 (Practice)
 
