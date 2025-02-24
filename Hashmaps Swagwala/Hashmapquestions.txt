@@ -73,6 +73,7 @@ https://leetcode.com/problems/subarrays-with-k-different-integers/
 https://leetcode.com/problems/max-consecutive-ones/description/
 
 26. Max consecutive ones - 2 (Practice)
+https://leetcode.com/problems/max-consecutive-ones-iii/
 
 27. Longest substring with atmost 2 unique chars
 
