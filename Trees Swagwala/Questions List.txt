@@ -1,0 +1,111 @@
+Swagwala Developer
+
+1) Maximum depth of binary tree
+
+2)Maximum depth of an n-ary tree
+
+3) Binary Tree preorder Traversal
+
+4) N-ary-tree preorder traversal
+
+5) Binary Tree postorder Traversal
+
+6) N-ary-tree postorder traversal
+
+7) Binary Tree inorder Traversal
+
+8) Merge Two Binary Trees
+
+9) Sum of root to leaf binary numbers
+
+10) Univalued binary tree
+
+12) Leaf Similar Trees
+
+13) Binary Tree Paths
+
+14) Sum of Left Leaves
+
+15) Path Sum
+
+16) Cousins in Binary Tree
+
+17) Same tree
+
+18) Invert binary tree
+
+19) Symmetric Tree
+
+20) Siblings in a binary tree
+
+21) Print all nodes that don't have a sibling - gfg
+
+24) Preorder traversal of binary tree using iterative approach
+
+25) Preorder traversal of n Ary tree using iterative approach
+
+26) Postorder traversal of binary tree using iterative approach
+
+27) Postorder traversal of n Ary tree using iterative approach
+
+28) Left view
+
+29) Right view
+
+30) Inorder traversal of binary tree using iterative approach
+
+32) Nodes at k distance
+
+33) Level order traversal of binary tree 1 ->GFG
+
+34) Level order traversal of n ary tree 1
+
+35) Level order traversal of binary tree -> Leetcode
+
+36) Level order traversal of n ary tree
+
+37) Reverse level order traversal
+
+38) Height of binary tree using BFS
+
+39) Same tree
+
+40) Average of levels in binary tree
+
+41) Univalued binary tree
+
+42) Binary tree tilt
+
+43) Sum of left leaves
+
+44) Cousins in Binary Tree using BFS
+
+45) Populate next right pointers in each node
+
+46) Nodes at k distance using BFS
+
+47) LCA 1
+
+48) LCA 2
+
+49) LCA 3
+
+50) LCA 4
+
+51) LCA in n ary tree
+
+52) Top View of Binary Tree
+
+53) Bottom View of binary tree
+
+54) Diagonal Traversal of binary tree
+
+55) Diameter of binary tree
+
+56) Diameter of n ary tree
+
+57) Construction of binary tree from preorder and inorder
+
+58) Construction of binary tree from Postorder and inorder
+
+59) Construction of binary tree from preorder and postorder
