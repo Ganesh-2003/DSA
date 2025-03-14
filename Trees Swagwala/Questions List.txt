@@ -4,6 +4,7 @@ Swagwala Developer
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 2)Maximum depth of an n-ary tree
+https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/
 
 
 3) Binary Tree preorder Traversal
