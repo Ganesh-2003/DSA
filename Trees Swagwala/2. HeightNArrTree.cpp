@@ -30,7 +30,7 @@ class Solution {
             
             int ans = 0;
     
-            for(auto currentChild: root->children) {
+            for(auto currentChild: root->children) {  //Going into the list of Child Nodes of that root
                 ans = max(ans,maxDepth(currentChild));
             }
     
