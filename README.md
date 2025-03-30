@@ -1,3 +1,3 @@
 # DSA
 
-Solve and Share Problems in my Github Repository for reference purpose
+Solve and Commit Problems in my Github Repository for reference purpose
