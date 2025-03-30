@@ -3,7 +3,7 @@ No problem link found: https://www.geeksforgeeks.org/count-number-of-substrings-
 class Solution {
     public:
         int countSubstringAtmostK(string s) {
-            
+    
             int n = s.size();
             int i = 0;
             int j = 0;
@@ -23,10 +23,8 @@ class Solution {
                     {
                         mp.erase(s[i]);
                     }
-
                     i++;
                 }
-
                 ans += j-i+1;
                 j++;
                 
