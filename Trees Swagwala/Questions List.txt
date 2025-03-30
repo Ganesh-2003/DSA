@@ -14,8 +14,9 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/
 
 5) Binary Tree postorder Traversal
 https://leetcode.com/problems/binary-tree-postorder-traversal/description/
-6) N-ary-tree postorder traversal
 
+6) N-ary-tree postorder traversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 7) Binary Tree inorder Traversal
 
 8) Merge Two Binary Trees
