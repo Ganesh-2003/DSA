@@ -12,7 +12,7 @@ class Solution {
           
           int total = 0;
           
-          while(pq.size()!=0)
+          while(pq.size()!=0) 
           {
               int first = pq.top();
               pq.pop();
