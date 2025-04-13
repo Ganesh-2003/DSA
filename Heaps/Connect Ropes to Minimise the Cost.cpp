@@ -10,7 +10,7 @@ class Solution {
               pq.push(i);
           }
           
-          int total = 1;
+          int total = 0;
           
           while(pq.size()!=0) 
           {
