@@ -24,10 +24,10 @@ https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/15907771
 8) Merge Two Binary Trees
 https://leetcode.com/problems/merge-two-binary-trees/
 
-9) Sum of root to leaf binary numbers
+9) Univalued binary tree
+https://leetcode.com/problems/univalued-binary-tree/submissions/1595677880/
 
-
-10) Univalued binary tree
+10) Sum of root to leaf binary numbers
 
 12) Leaf Similar Trees
 
