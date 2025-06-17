@@ -1,22 +1,23 @@
 Swagwala Developer - Trees Questions List
 
 1) Maximum depth of binary tree
-https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/maximum-depth-of-binary-tree/ - Done ✅
+
 
 2)Maximum depth of an n-ary tree
-https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/
+https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/ Done ✅
 
 3) Binary Tree preorder Traversal
-https://leetcode.com/problems/binary-tree-preorder-traversal/
+https://leetcode.com/problems/binary-tree-preorder-traversal/ Done ✅
 
 4) N-ary-tree preorder traversal
-https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/ - Done ✅
 
 5) Binary Tree postorder Traversal
-https://leetcode.com/problems/binary-tree-postorder-traversal/description/
+https://leetcode.com/problems/binary-tree-postorder-traversal/description/ - Done ✅
 
 6) N-ary-tree postorder traversal
-https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/ 
 
 7) Binary Tree inorder Traversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/1590777158/
