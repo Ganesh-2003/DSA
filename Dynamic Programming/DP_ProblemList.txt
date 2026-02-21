@@ -1,18 +1,18 @@
-1) Climbing Stairs
+1) Climbing Stairs (done) ✅
 
-2) Min Cost Climbing Stairs
+2) Min Cost Climbing Stairs (done) ✅
 
-3) Fibonacci Number
+3) Fibonacci Number (done) ✅
 
-4) Tribonacci Number
+4) Tribonacci Number (done) ✅
 
-5) House Robbery 1
+5) House Robbery 1 (done) ✅
 
 6) House Robbery 2
 
-7) Frog Jump
+7) Frog Jump (done) ✅
 
-7) 0-1 Knapsack
+7) 0-1 Knapsack (done) ✅
 
 8) Subset sum problem
 
