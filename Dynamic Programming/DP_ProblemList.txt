@@ -10,11 +10,11 @@
 
 6) House Robbery 2
 
-7) Frog Jump (done) ✅
+7) Frog Jump
 
 7) 0-1 Knapsack (done) ✅
 
-8) Subset sum problem
+8) Subset sum problem (done) ✅
 
 9) Target Sum Problem
 
