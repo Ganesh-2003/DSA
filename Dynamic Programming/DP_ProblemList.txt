@@ -18,7 +18,7 @@
 
 9) Target Sum Problem (done) ✅
 
-10) Count the number of subsets with a given difference
+10) Count the number of subsets with a given difference (done) ✅
 
 11) Delete and earn
 
