@@ -20,7 +20,7 @@
 
 10) Count the number of subsets with a given difference (done) ✅
 
-11) Delete and earn
+11) Delete and earn (done) ✅
 
 12) Unbounded Knapsack
 
